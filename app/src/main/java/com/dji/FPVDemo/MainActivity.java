@@ -58,6 +58,7 @@ public class MainActivity extends Activity implements SurfaceTextureListener, On
     private TextView headingDisplay;
     private HUDDisplay mHUDDisplay = new HUDDisplay();
     private FileService logfile;
+    private View arrorView;
 
 
     /**
